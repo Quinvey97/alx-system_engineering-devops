@@ -1,0 +1,1 @@
+My shell varaibles expansions
